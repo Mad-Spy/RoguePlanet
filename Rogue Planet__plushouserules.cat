@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="cc51e36d-e43f-feef-8d6d-4f69ad0aed0a" name="Rogue Planet_plushouserules" revision="3" battleScribeVersion="2.03" library="false" gameSystemId="6262f3d6-dd9d-ced3-7d1e-3602c6f1eb84" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="f954565c-f175-86a5-b128-f0ec4f6cdae5" name="Unit" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="2a7f60b3-77fd-2d97-3294-2676ad1f9de5" name="Unit" hidden="false" typeId="329d4fd4-eb2a-8baa-38e8-90a580de95ec" typeName="Unit">
+          <modifiers>
+            <modifier type="set" field="883e74a3-e678-bf91-a2f6-252fa25524a7" value="4">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="b2c64cc1-4f08-12d6-969c-ac7ac15d451a" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="883e74a3-e678-bf91-a2f6-252fa25524a7" value="3">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7b70010a-3de4-0a32-bb26-5f0b54dfca53" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="883e74a3-e678-bf91-a2f6-252fa25524a7" value="6">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="42f9bafa-c9d9-b796-01df-9183c1e1afa6" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="883e74a3-e678-bf91-a2f6-252fa25524a7" value="7">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="0ecce3cb-0042-2c22-b7f3-0a4b3b96e9c0" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="883e74a3-e678-bf91-a2f6-252fa25524a7" value="5">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="eac548d6-2483-ac5c-b48a-526408235480" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="883e74a3-e678-bf91-a2f6-252fa25524a7" value="2">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="29155064-ed19-ab8e-493f-54fc39182dce" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="2461287f-6e74-059d-3f52-bef8a0715de5" value="7">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7f611ac6-abaa-d6c5-0c8d-678ab065e9c6" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="2461287f-6e74-059d-3f52-bef8a0715de5" value="6">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="11b16bc6-7c06-1c0f-edbf-48cbd6229c87" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="2461287f-6e74-059d-3f52-bef8a0715de5" value="4">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="a2a33bce-c8a4-7faa-3c0e-b9e2c27e8891" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="2461287f-6e74-059d-3f52-bef8a0715de5" value="3">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="03d33593-950a-11f0-fff1-5a2450b3e0fb" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="2461287f-6e74-059d-3f52-bef8a0715de5" value="2">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="d5295c76-2af3-e7c2-ce03-92b5c486d727" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+            <modifier type="set" field="2461287f-6e74-059d-3f52-bef8a0715de5" value="5">
+              <repeats>
+                <repeat field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="45b86313-fd58-923d-8d80-0e266fbb53b7" repeats="1" roundUp="false"/>
+              </repeats>
+            </modifier>
+          </modifiers>
+          <characteristics>
+            <characteristic name="CQ" typeId="883e74a3-e678-bf91-a2f6-252fa25524a7">0</characteristic>
+            <characteristic name="RAT" typeId="2461287f-6e74-059d-3f52-bef8a0715de5">0</characteristic>
+            <characteristic name="DEF" typeId="872e08eb-d4ca-276d-189a-f3b2e2bb0709">0</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="f954565c-f175-86a5-b128-f0ec4f6cdae5-ea33c77a-0d27-f8f6-587e-ef49f3eccbf3" hidden="false" targetId="ea33c77a-0d27-f8f6-587e-ef49f3eccbf3" primary="true"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="82149258-d535-9508-27f1-07874f6be7c2" name="Hero/Leader/Lieutenant" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+            <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="false" id="maxInForce" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="16b48644-9dce-0f20-885f-8db4a72b2769" name="Stats" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="53bf6963-083b-a631-8a00-268a4759b080" name="CQ Skill" hidden="false" collective="false" import="true" defaultSelectionEntryId="29155064-ed19-ab8e-493f-54fc39182dce">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="29155064-ed19-ab8e-493f-54fc39182dce" name="2 CQ Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="3.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="7b70010a-3de4-0a32-bb26-5f0b54dfca53" name="3 CQ Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="6.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b2c64cc1-4f08-12d6-969c-ac7ac15d451a" name="4 CQ Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="eac548d6-2483-ac5c-b48a-526408235480" name="5 CQ Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="42f9bafa-c9d9-b796-01df-9183c1e1afa6" name="6 CQ Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="21.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="0ecce3cb-0042-2c22-b7f3-0a4b3b96e9c0" name="7 CQ Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="9053fa00-a83d-d3cb-2282-efbd4bf5ba2f" name="RAT Skill" hidden="false" collective="false" import="true" defaultSelectionEntryId="d5295c76-2af3-e7c2-ce03-92b5c486d727">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d5295c76-2af3-e7c2-ce03-92b5c486d727" name="2 RAT Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="3.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="03d33593-950a-11f0-fff1-5a2450b3e0fb" name="3 RAT Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="6.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a2a33bce-c8a4-7faa-3c0e-b9e2c27e8891" name="4 RAT Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="45b86313-fd58-923d-8d80-0e266fbb53b7" name="5 RAT Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="11b16bc6-7c06-1c0f-edbf-48cbd6229c87" name="6 RAT Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="21.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="7f611ac6-abaa-d6c5-0c8d-678ab065e9c6" name="7 RAT Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="41325157-8050-c3d8-7924-6f534448fc94" name="DEF Skill" hidden="false" collective="false" import="true" defaultSelectionEntryId="e34bfeb7-e680-587c-ff2f-444d39efd7f4">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e34bfeb7-e680-587c-ff2f-444d39efd7f4" name="2 DEF Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="3.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="85b46f4a-67e6-f9f4-a92c-32d8adef1975" name="3 DEF Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="6.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="447efdde-8ccb-5fe9-c97c-5f37b8043035" name="4 DEF Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9cf4bc6e-302e-b601-adee-f1627b9dbbe2" name="5 DEF Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="2acf01a1-9e13-3f83-1136-10c6fe6a429a" name="6 DEF Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="21.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="e669df4f-42d7-73f6-2d59-e909aff17fcd" name="7 DEF Skill" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="28.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="80869d6b-e9b3-03de-99f5-3ee93fcfacb9" name="Designation" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2d549812-4d5a-e651-3467-74d015de16f4" name="Armour Type" hidden="false" collective="false" import="true" defaultSelectionEntryId="4865f651-e53f-9da9-5839-2da62a1fd5ff">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="4865f651-e53f-9da9-5839-2da62a1fd5ff" name="Light" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="07489297-1b45-0ee4-6645-47d59e4ee495" name="Medium" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="19.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="465abbd4-d929-6ac2-514a-6cba1bbd3279" name="Heavy" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="34.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ba3b70c4-bea2-b4e9-dafe-328a5f32b75c" name="Group" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="18.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="a44f49a9-0a35-0a91-42d1-9d189ad9a06c" name="Enhancements" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="711cbafc-5834-31e6-6983-a0debb2d751a" name="Flyer" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="e253426d-5f4d-109f-35da-8a8404f5379c" name="Mobility" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="11.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="66e3-a6df-b999-a4a3" name="Parry" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="b0f7-657d-839a-db45" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="12.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f122-7030-1619-9cc9" name="Evasion" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="32d0-19c7-2340-002e" type="max"/>
+                  </constraints>
+                  <selectionEntries>
+                    <selectionEntry id="09e0-a39f-99f1-2683" name="Improved Evasion" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="07d9-4001-4188-aad9" type="max"/>
+                      </constraints>
+                      <costs>
+                        <cost name="pts" typeId="points" value="4.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="3.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="df71-7bf0-b27d-49e9" name="Camouflage" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="ad26-1043-4a94-f0ab" type="max"/>
+                  </constraints>
+                  <selectionEntries>
+                    <selectionEntry id="e5d8-9be3-34d3-e779" name="Advanced Camouflage" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="efdc-1a8f-2401-6acd" type="max"/>
+                      </constraints>
+                      <costs>
+                        <cost name="pts" typeId="points" value="10.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="503a-ad47-4776-ea42" name="Medic" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8024-4de2-2e7a-d9ca" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="14.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="3d74d4c4-44d2-d58c-bd9e-22d887d6ea20" name="Armour" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="1152101d-3025-e944-7630-0c9b58718229" name="Great Shield" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="772e3f5c-68db-47cf-aead-a7c488006a07" name="Powered Armour" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="18.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ce13dd06-10c6-1d4a-9bef-f9491426ad82" name="Shield" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="2.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="8361901d-eaa7-ea82-e157-3017bbc051e8" name="Size" hidden="false" collective="false" import="true" defaultSelectionEntryId="6624b0dd-1ce5-b490-d145-926b7c3f35cc">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6624b0dd-1ce5-b490-d145-926b7c3f35cc" name="Small" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="0d92473f-af6d-9d84-32b5-f645de8c5551" name="Medium" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8d7591fd-7c28-96f5-b108-4e705e4bb1a1" name="Large" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d1c2f2b3-058e-a3fa-b64a-ca0db395b5be" name="Giant" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="increment" field="minSelections" value="1.0">
+                      <repeats>
+                        <repeat field="selections" scope="80869d6b-e9b3-03de-99f5-3ee93fcfacb9" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="711cbafc-5834-31e6-6983-a0debb2d751a" repeats="1" roundUp="false"/>
+                      </repeats>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="6e78278f-1dc8-4a6d-0688-75a29f82b5ca" name="Weapons" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1d48bea5-d3d5-696f-f52f-c43dc7ef0db0" name="Ranged Weapons" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="6d0eebde-9c0d-e2ad-9d7f-87fcebc359ad" name="Carbine" hidden="false" collective="false" import="true" type="upgrade">
+                  <selectionEntries>
+                    <selectionEntry id="2f8e-d27b-e6b9-f75d" name="Hollow Point" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="007f-1466-f230-a24c" name="Incendiary" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="4027-ef83-2f10-d062" name="Armor Piercing" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="5dea-71c6-b85c-c019" name="High Impact" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="10.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="3356f673-0046-0bb4-3c52-fa9288e03fe4" name="Basic Ranged" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="8.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="afe94bd9-2bb7-cb69-0224-f19efe616ca1" name="Blaster" hidden="false" collective="false" import="true" type="upgrade">
+                  <selectionEntries>
+                    <selectionEntry id="933c-88c5-3335-770e" name="Hollow Point" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="ce05-da0b-48d3-9b29" name="Incendiary" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="13a7-8077-878e-3929" name="Armor Piercing" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="f286-eda6-0f2c-cabf" name="High Impact" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="10.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="14.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ff6c2131-3735-5731-d86b-fd0c8eff99f1" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="12.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="7edc6d75-ae5e-c38b-2daf-92d2ba93e694" name="Grenade" hidden="false" collective="false" import="true" type="upgrade">
+                  <selectionEntries>
+                    <selectionEntry id="a7b9-4955-ed95-16df" name="Programmed" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="9.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="12.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a29ae90b-c916-7dc8-d7b0-f75301e6ad87" name="Heavy Launcher" hidden="false" collective="false" import="true" type="upgrade">
+                  <selectionEntries>
+                    <selectionEntry id="ffc5-7ad7-1fbe-b837" name="Incendiary" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="6a69-6b4a-fd20-8deb" name="High Impact" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="10.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="34f75261-6d3c-a98a-0985-6b4ce9efbb35" name="Machine Gun" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="27.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="29160aac-c1b6-d267-dee2-42b3ac1e33b8" name="Scattershot" hidden="false" collective="false" import="true" type="upgrade">
+                  <selectionEntries>
+                    <selectionEntry id="5907-953c-fca0-ef9e" name="High Impact" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="10.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="13.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="bf232ae1-c96b-8110-e401-69d28ec63a4c" name="Melee Weapons" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="4d9a27b3-c529-19a8-ee5e-ec92029722dc" name="Axe" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="2.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8c267dbc-e34e-7314-ef17-c4b06e49a3d7" name="Blade" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="1.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9cbb24fd-c625-7ca4-f70f-50de393b3434" name="Spear" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="6.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="defe0813-f784-e8a1-8739-1e70b2f5143f" name="Lance" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="2.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ec2d2854-76bb-61ae-981f-f5dd59762ec5" name="Blunt" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="8.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="74358a8c-95b1-d2c0-f8ee-e05bbfc4b644" name="Chain" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="4.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8fa4-dabd-3cd8-478f" name="Brutal Impact" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="9.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="4446715d-3ac7-b368-ca54-f291440a6301" name="Powered Melee Weapons" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="4abe9525-9b16-e70e-7bff-931c57bf4e36" name="Powered" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="27.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f81263ad-1729-3ca2-17b4-78d7127b2910" name="Powered Fist" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="33.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="872b5907-6cc6-b26f-9b74-3a76408377bc" name="Powered Hammer" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="27.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b766c2c8-8bee-73e5-c988-f56be9658107" name="Chained Blade" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="33.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="2034722b-ddc8-4b81-a5fa-9c808e99703a" name="Gravity Hammer" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="82149258-d535-9508-27f1-07874f6be7c2" type="equalTo"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="33.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8cab4594-70eb-2d20-4ec6-0095a1b02623" name="Thunder Hammer" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="82149258-d535-9508-27f1-07874f6be7c2" type="equalTo"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="33.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="90038266-0887-5aa8-53b2-895b091437a4" name="Enhancements" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="1053bd2c-ab67-968b-5919-6e41848af625" name="Extended Range" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="8.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="bc9679e9-9259-e567-a102-41a096d4ecfa" name="Long-strike" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="12ead918-875a-0b4d-82ec-f1669e70a522" name="Scope" hidden="false" collective="false" import="true" type="upgrade">
+                  <selectionEntries>
+                    <selectionEntry id="6a78-e405-fec3-86ed" name="Enhanced Optics" hidden="false" collective="false" import="true" type="upgrade">
+                      <costs>
+                        <cost name="pts" typeId="points" value="2.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <costs>
+                    <cost name="pts" typeId="points" value="8.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="620e0826-70eb-4b97-1d01-733a61a23194" name="Great" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="pts" typeId="points" value="3.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="056a476f-f505-2a26-0f5d-752e6dd4178a" name="Sorcery and Psionics" hidden="false" collective="false" import="true">
+          <modifiers>
+            <modifier type="increment" field="minSelections" value="0.0"/>
+            <modifier type="set" field="hidden" value="true">
+              <conditions>
+                <condition field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="82149258-d535-9508-27f1-07874f6be7c2" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <constraints>
+            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="020dc02f-27ed-a862-5c5f-5cb8de7aadcd" name="Sorcerer" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <costs>
+                <cost name="pts" typeId="points" value="5.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="9a21f0d0-69d7-4771-28ae-bbe4faf1ed30" name="Psyker" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+              </constraints>
+              <costs>
+                <cost name="pts" typeId="points" value="5.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="d0aca731-2845-e303-8d66-8191f95f840e" name="Sorcery" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="43de1214-af48-f7fd-d786-350665ca1c20" name="Blink" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="9.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="178f95e3-ebbc-472d-e24b-70828838b259" name="Magic Missile" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="17.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6be01075-90bb-035e-1ef8-6714ae2c6d3f" name="Time Stop" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="21.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="05867e9e-e24e-0ddf-8f4c-f970446d822e" name="Psychic Powers" hidden="false" collective="false" import="true">
+              <selectionEntries>
+                <selectionEntry id="8c7ae469-b2dd-30f7-f5db-0b38c5ba85a0" name="Lift" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="7.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="896cf75d-497d-81bf-b8ed-ddb2a04efb9c" name="Throw" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
+                  </constraints>
+                  <costs>
+                    <cost name="pts" typeId="points" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="bafc5fa0-0df9-6573-d894-efb81bbac5ce" name="Pawns" hidden="false" collective="false" import="true">
+          <modifiers>
+            <modifier type="set" field="hidden" value="true">
+              <conditions>
+                <condition field="selections" scope="f954565c-f175-86a5-b128-f0ec4f6cdae5" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="82149258-d535-9508-27f1-07874f6be7c2" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <constraints>
+            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="544bae65-677c-c027-85dd-a480c4078264" name="Ammo Grunt" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="d154f6bf-8038-1807-82b3-26485219baf5" name="Amp" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="86be166c-13e6-ab84-621c-8f663a869ea6" name="Bot" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="897def30-e78d-1380-36c5-dc1889b973b0" name="Brute" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="ebcbe752-42bc-5743-d032-29bc2152f4cd" name="Catalyst" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="2738c8e8-c929-04c5-76b4-29e53dd6fa6c" name="Comms" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="324ec152-9df0-ac05-0ee5-6675f2c2ea01" name="Defender" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="c3a2d15c-45fb-e973-ed53-857f142717cb" name="Expendables" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="9ce28b33-fd3c-e318-9b41-0c6c3d3f349a" name="Familiar" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="20b705a4-26bf-4188-b001-26464f5cd0eb" name="Fire Support" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="6e7b5314-03b8-2d7c-a813-0ff3790dcb05" name="Intimidator" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="2519239a-0c4d-395a-a744-b705425f5f6c" name="Pet" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="4e2f512c-59b5-fbd7-73d2-80d81f224b02" name="Standard Bearer" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="28a6-c9f6-a1a2-8094" name="PawnTry" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="8ced-98e7-ffd6-a264" name="Spotter" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="points" value="0.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
